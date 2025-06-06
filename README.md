@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm S Mounika Chowdary</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Python developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=SMounikaChowdary&label=Profile%20views&color=0e75b6&style=flat" alt="SMounikaChowdary" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/ryo-ma/github-profile-trophy" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SMounikaChowdary&theme=onedark&row=1&column=7" alt="trophies" />
 </p>
 
 <p align="center">
@@ -47,12 +47,12 @@
 
 ### 📊 Most Used Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMounikaChowdary&layout=compact&theme=default)
 
 ---
 
-### 📈 Jayanth Jagu’s GitHub Stats:
+### 📈 S Mounika Chowdary’s GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=default" alt="yourusername stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SMounikaChowdary&show_icons=true&count_private=true&theme=default" alt="SMounikaChowdary stats"/>
 </p>
