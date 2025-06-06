@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rajat</h1>
-<h3 align="center">Full Stack Developer | ReactJS, NodeJS, MongoDB Enthusiast | Passionate about Scalable Web Solutions | 15 Google Cloud Skill Badges | SRM University Scholar</h3>
+<h1 align="center">Hi 👋, I'm S Mounika Chowdary</h1>
+<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Reliance Undergraduate Scholar</h3>
+<h3 align="center">Foundation For Excellence Scholar</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatbaranwal&label=Profile%20views&color=0e75b6&style=flat" alt="rajatbaranwal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mounika-Chowdary28&label=Profile%20views&color=0e75b6&style=flat" alt="rajatbaranwal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatbaranwal" alt="rajatbaranwal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mounika-Chowdary28" alt="Mounika-Chowdary28" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms (DSA) to enhance problem-solving skills and deepen my understanding of efficient coding practices.**
 
@@ -11,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rajat-baranwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-baranwal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ap22110011534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ap22110011534" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajat_bar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajat_bar" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/rajat-baranwal](https://www.linkedin.com/in/s-mounika-chowdary/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-baranwal" height="30" width="40" /></a>
+<a href="[https://www.hackerrank.com/ap22110011534](https://www.hackerrank.com/profile/AP23110011340)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ap22110011534" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/rajat_bar](https://leetcode.com/u/Mounika-Chowdary/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajat_bar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
