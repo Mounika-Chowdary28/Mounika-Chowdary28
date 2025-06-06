@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms (DSA) to enhance problem-solving skills and deepen my understanding of efficient coding practices.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rajatbaranwal](https://github.com/rajatbaranwal)
+- 👨‍💻 All of my projects are available at https://github.com/Mounika-Chowdary28
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
