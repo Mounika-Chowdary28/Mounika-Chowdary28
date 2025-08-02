@@ -93,7 +93,7 @@ const mounika: Developer = {
 
 <td align="center" width="25%">
 <h3>⚙️ Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,php,python,express,fastapi" width="200"/>
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,express" width="200"/>
 <br><br>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -101,7 +101,7 @@ const mounika: Developer = {
 
 <td align="center" width="25%">
 <h3>🗄️ Database</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" width="200"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" width="200"/>
 <br><br>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -109,10 +109,9 @@ const mounika: Developer = {
 
 <td align="center" width="25%">
 <h3>🔧 Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman" width="200"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" width="200"/>
 <br><br>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </td>
 </tr>
 </table>
