@@ -25,15 +25,6 @@
 <td width="50%">
 
 ```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  currentFocus: string[];
-  interests: string[];
-  hobbies: string[];
-  motto: string;
-}
 
 const mounika: Developer = {
   name: "S Mounika Chowdary",
