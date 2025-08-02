@@ -339,25 +339,44 @@ Other        23 mins         ░░░░░░░░░░░░░░░░░
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎵 **Currently Vibing To**
+## 🎵 **Music & Inspiration**
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31k6rlzwxkjiowhowdjewhowdhow&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31k6rlzwxkjiowhowdjewhowdhow)
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+<br>
+<b>🎧 Coding Playlist</b>
+<br>
+Lo-fi Hip Hop & Instrumental
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
+<br>
+<b>🎵 Focus Music</b>
+<br>
+Ambient & Electronic
+</td>
+</tr>
+</table>
+
+### 🎼 **Current Mood**
+<img src="https://img.shields.io/badge/🎶-Coding%20to%20Lo--fi%20Beats-00d9ff?style=for-the-badge" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 **Contribution Snake**
+## 🐍 **GitHub Contributions**
 
 <div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mounika-Chowdary28/Mounika-Chowdary28/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mounika-Chowdary28/Mounika-Chowdary28/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mounika-Chowdary28/Mounika-Chowdary28/output/github-contribution-grid-snake.svg">
-</picture>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mounika-Chowdary28&theme=react&border_color=00d9ff&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&layout=compact" alt="Coding Activity" />
+
+### 📊 **Contribution Calendar**
+<img src="https://ghchart.rshah.org/00d9ff/Mounika-Chowdary28" alt="GitHub Contributions Chart" />
 
 </div>
 
