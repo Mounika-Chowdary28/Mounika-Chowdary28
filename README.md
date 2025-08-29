@@ -9,9 +9,10 @@
   <br>
   
   <!-- Portfolio Button - Prominently displayed -->
-  <a href="mounikachowdaryportfolio.netlify.app/ " target="_blank">
-    <img src="https://img.shields.io/badge/🌟_View_My_Portfolio-00d9ff?style=for-the-badge&logo=web&logoColor=white&labelColor=0D1117&color=00d9ff" alt="Portfolio" />
-  </a>
+<!-- Instead of the GitHub path, use the actual Netlify URL -->
+<a href="https://mounikachowdaryportfolio.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌟_View_My_Portfolio-00d9ff?style=for-the-badge&logo=web&logoColor=white&labelColor=0D1117&color=00d9ff" alt="Portfolio" />
+</a>
   
   <br><br>
   
