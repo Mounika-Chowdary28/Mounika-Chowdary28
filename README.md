@@ -8,6 +8,13 @@
   
   <br>
   
+  <!-- Portfolio Button - Prominently displayed -->
+  <a href="mounikachowdaryportfolio.netlify.app/ " target="_blank">
+    <img src="https://img.shields.io/badge/🌟_View_My_Portfolio-00d9ff?style=for-the-badge&logo=web&logoColor=white&labelColor=0D1117&color=00d9ff" alt="Portfolio" />
+  </a>
+  
+  <br><br>
+  
   <img src="https://komarev.com/ghpvc/?username=Mounika-Chowdary28&label=Profile%20Views&color=00d9ff&style=for-the-badge&logo=eye" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Mounika-Chowdary28?label=Followers&style=for-the-badge&color=00d9ff&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Mounika-Chowdary28?label=Profile%20Stars&style=for-the-badge&color=00d9ff&logo=star" alt="GitHub Stars" />
@@ -264,21 +271,28 @@ Interview Prep<br>System Design
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
+<a href="https://your-portfolio-url.com" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/My-Work-00d9ff?style=flat-square" />
+</a>
+</td>
+<td align="center" width="25%">
 <a href="https://www.linkedin.com/in/s-mounika-chowdary/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Professional-Network-blue?style=flat-square" />
 </a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <a href="https://github.com/Mounika-Chowdary28">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Code-Portfolio-green?style=flat-square" />
 </a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <a href="https://www.instagram.com/mounika_sangapu/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 <br>
