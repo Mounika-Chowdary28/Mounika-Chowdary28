@@ -36,12 +36,13 @@
 
 const mounika: Developer = {
   name: "S Mounika Chowdary",
-  role: "Full Stack Developer",
+  role: "Full Stack Developer & Data Analyst",
   location: "Chittoor, Andhra Pradesh 🇮🇳",
   currentFocus: [
     "Data Structures & Algorithms",
-    "System Design",
-    "Competitive Programming"
+    "Competitive Programming",
+    "Machine Learning",
+    "Data Science"
   ],
   interests: [
     "Web Development",
