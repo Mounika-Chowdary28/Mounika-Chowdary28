@@ -18,7 +18,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=Mounika-Chowdary28&label=Profile%20Views&color=00d9ff&style=for-the-badge&logo=eye" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Mounika-Chowdary28?label=Followers&style=for-the-badge&color=00d9ff&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Mounika-Chowdary28?label=Profile%20Stars&style=for-the-badge&color=00d9ff&logo=star" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/Mounika-Chowdary28?label=Profile%20Stars&style=for-the-badge&color=00d9ff&logo=star" alt="GitHub Stars"/>
   
 </div>
 
