@@ -60,7 +60,7 @@ const mounika: Developer = {
 </td>
 <td width="50%">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300"/>
 
 ### 🌟 **Quick Facts**
 - 🔭 Working on **Full Stack Projects**
